@@ -1,3 +1,3 @@
 # hello-world
 my first repository
-First test with jenkins :)
+First test with jenkins
